@@ -1,0 +1,13 @@
+{
+  "name": "lights-off-service",
+  "version": "1.0.0",
+  "description": "Automatically turn off the lights.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Ryan Gregg",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
